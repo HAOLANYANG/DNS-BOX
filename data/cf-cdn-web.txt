@@ -1,57 +1,57 @@
-cloudflare.com
-www.cloudflare.com
-cdnjs.cloudflare.com
-api.cloudflare.com
-dash.cloudflare.com
-platform.dash.cloudflare.com
-info.cloudflare.com
-sparrow.cloudflare.com
-assets.www.cloudflare.com
-videodelivery.net
-store.ubi.com
-client-api.arkoselabs.com
-epic-games-api.arkoselabs.com
-cdn.arkoselabs.com
-prod-ireland.arkoselabs.com
-www.nexusmods.com
-staticdelivery.nexusmods.com
-cf-files.nexusmods.com
-staticstats.nexusmods.com
-users.nexusmods.com
-wall.alphacoders.com
-static.alphacoders.com
-images.alphacoders.com
-images2.alphacoders.com
-images3.alphacoders.com
-images4.alphacoders.com
-images5.alphacoders.com
-images6.alphacoders.com
-images7.alphacoders.com
-images8.alphacoders.com
-hcaptcha.com
-assets.hcaptcha.com
-imgs.hcaptcha.com
-faceit-client.faceit-cdn.net
-anticheat-client.faceit-cdn.net
-download-alt.easyanticheat.net
-api.greenmangaming.com
-images.greenmangaming.com
-media.greenmangaming.com
-www.greenmangaming.com
-www.wemod.com
-api.wemod.com
-storage-cdn.wemod.com
-community.wemod.com
-deepl.com
-www.deepl.com
-openai.com
-platform.openai.com
-chat.openai.com
-radio.garden
-zoom.earth
-www.wuxiaworld.com
-wuxiaworld.com
-cloud.moezx.cc
-www.nange.cn
-launium.com
-wzfou.com
+$IP cloudflare.com
+$IP www.cloudflare.com
+$IP cdnjs.cloudflare.com
+$IP api.cloudflare.com
+$IP dash.cloudflare.com
+$IP platform.dash.cloudflare.com
+$IP info.cloudflare.com
+$IP sparrow.cloudflare.com
+$IP assets.www.cloudflare.com
+$IP videodelivery.net
+$IP store.ubi.com
+$IP client-api.arkoselabs.com
+$IP epic-games-api.arkoselabs.com
+$IP cdn.arkoselabs.com
+$IP prod-ireland.arkoselabs.com
+$IP www.nexusmods.com
+$IP staticdelivery.nexusmods.com
+$IP cf-files.nexusmods.com
+$IP staticstats.nexusmods.com
+$IP users.nexusmods.com
+$IP wall.alphacoders.com
+$IP static.alphacoders.com
+$IP images.alphacoders.com
+$IP images2.alphacoders.com
+$IP images3.alphacoders.com
+$IP images4.alphacoders.com
+$IP images5.alphacoders.com
+$IP images6.alphacoders.com
+$IP images7.alphacoders.com
+$IP images8.alphacoders.com
+$IP hcaptcha.com
+$IP assets.hcaptcha.com
+$IP imgs.hcaptcha.com
+$IP faceit-client.faceit-cdn.net
+$IP anticheat-client.faceit-cdn.net
+$IP download-alt.easyanticheat.net
+$IP api.greenmangaming.com
+$IP images.greenmangaming.com
+$IP media.greenmangaming.com
+$IP www.greenmangaming.com
+$IP www.wemod.com
+$IP api.wemod.com
+$IP storage-cdn.wemod.com
+$IP community.wemod.com
+$IP deepl.com
+$IP www.deepl.com
+$IP openai.com
+$IP platform.openai.com
+$IP chat.openai.com
+$IP radio.garden
+$IP zoom.earth
+$IP www.wuxiaworld.com
+$IP wuxiaworld.com
+$IP cloud.moezx.cc
+$IP www.nange.cn
+$IP launium.com
+$IP wzfou.com
