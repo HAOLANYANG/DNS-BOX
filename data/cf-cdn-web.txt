@@ -46,7 +46,6 @@ $IP deepl.com
 $IP www.deepl.com
 $IP openai.com
 $IP platform.openai.com
-$IP chat.openai.com
 $IP radio.garden
 $IP zoom.earth
 $IP www.wuxiaworld.com
