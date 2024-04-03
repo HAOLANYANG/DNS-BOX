@@ -65,7 +65,6 @@ $IP malaysia.com
 $IP russia.com
 $IP singapore.com
 $IP skk.moe
-$IP 18comic.vip
 $IP www.visa.com
 $IP www.visa.com.sg
 $IP www.visa.com.hk
