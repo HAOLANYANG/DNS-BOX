@@ -1,3 +1,4 @@
+$IP cf-test.booom.uk
 $IP cloudflare.com
 $IP www.cloudflare.com
 $IP cdnjs.cloudflare.com
