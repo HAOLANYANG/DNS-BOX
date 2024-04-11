@@ -1,8 +1,8 @@
-140.82.112.4 github.com
+140.82.113.3 github.com
 185.199.108.153 github.io
 20.27.177.114 codeload.github.com
 185.199.108.133 raw.githubusercontent.com
-140.82.112.21 enterprise.github.com
+140.82.113.22 enterprise.github.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.108.133 camo.githubusercontent.com
 140.82.113.21 education.github.com
