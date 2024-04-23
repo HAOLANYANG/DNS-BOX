@@ -1,3 +1,12 @@
 7.0.0.35 github.com
 7.0.0.36 github.io
 7.0.0.37 codeload.github.com
+7.0.0.38 raw.githubusercontent.com
+7.0.0.39 enterprise.github.com
+7.0.0.40 avatars.githubusercontent.com
+7.0.0.41 camo.githubusercontent.com
+7.0.0.42 education.github.com
+7.0.0.43 atom.io
+7.0.0.44 dependabot.com
+7.0.0.45 ghcr.io
+7.0.0.46 git.io
