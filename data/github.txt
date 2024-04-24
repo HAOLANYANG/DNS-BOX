@@ -5,3 +5,8 @@
 7.0.0.33 enterprise.github.com
 7.0.0.34 avatars.githubusercontent.com
 7.0.0.35 camo.githubusercontent.com
+7.0.0.36 education.github.com
+7.0.0.37 atom.io
+7.0.0.38 dependabot.com
+7.0.0.39 ghcr.io
+7.0.0.40 git.io
