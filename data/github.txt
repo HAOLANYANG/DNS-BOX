@@ -5,8 +5,8 @@
 7.0.0.12 enterprise.github.com
 7.0.0.13 avatars.githubusercontent.com
 7.0.0.14 camo.githubusercontent.com
-7.0.0.16 education.github.com
-7.0.0.17 atom.io
-7.0.0.18 dependabot.com
-7.0.0.19 ghcr.io
-7.0.0.20 git.io
+7.0.0.15 education.github.com
+7.0.0.16 atom.io
+7.0.0.17 dependabot.com
+7.0.0.18 ghcr.io
+7.0.0.19 git.io
