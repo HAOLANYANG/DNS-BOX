@@ -7,6 +7,3 @@
 7.0.0.70 camo.githubusercontent.com
 7.0.0.71 education.github.com
 7.0.0.72 atom.io
-7.0.0.73 dependabot.com
-7.0.0.74 ghcr.io
-7.0.0.75 git.io
