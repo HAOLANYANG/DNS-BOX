@@ -5,7 +5,7 @@
 140.82.114.21 enterprise.github.com
 8.8.8.8 avatars.githubusercontent.com
 185.199.111.133 camo.githubusercontent.com
-140.82.113.22 education.github.com
+140.82.114.21 education.github.com
 140.82.113.17 atom.io
 140.82.113.17 dependabot.com
 20.27.177.117 ghcr.io
