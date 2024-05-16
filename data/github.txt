@@ -6,7 +6,7 @@
 8.8.8.8 avatars.githubusercontent.com
 185.199.108.133 camo.githubusercontent.com
 140.82.114.21 education.github.com
-140.82.114.18 atom.io
-140.82.114.18 dependabot.com
+140.82.112.17 atom.io
+8.8.8.8 dependabot.com
 20.27.177.117 ghcr.io
-8.8.8.8 git.io
+66.220.149.32 git.io
