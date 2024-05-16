@@ -9,3 +9,4 @@
 140.82.113.17 atom.io
 140.82.113.17 dependabot.com
 20.27.177.117 ghcr.io
+31.13.85.2 git.io
