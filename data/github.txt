@@ -4,8 +4,8 @@
 8.8.8.8 raw.githubusercontent.com
 140.82.112.21 enterprise.github.com
 8.8.8.8 avatars.githubusercontent.com
-185.199.109.133 camo.githubusercontent.com
-140.82.114.22 education.github.com
+185.199.108.133 camo.githubusercontent.com
+140.82.113.21 education.github.com
 140.82.112.18 atom.io
 140.82.112.18 dependabot.com
 20.27.177.117 ghcr.io
