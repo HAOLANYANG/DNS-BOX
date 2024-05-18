@@ -3,10 +3,3 @@
 20.27.177.114 codeload.github.com
 8.8.8.8 raw.githubusercontent.com
 140.82.112.21 enterprise.github.com
-8.8.8.8 avatars.githubusercontent.com
-185.199.109.133 camo.githubusercontent.com
-140.82.112.22 education.github.com
-140.82.114.18 atom.io
-140.82.114.18 dependabot.com
-20.27.177.117 ghcr.io
-162.125.6.1 git.io
